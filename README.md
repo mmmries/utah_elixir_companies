@@ -13,7 +13,7 @@ If you notice a company missing or a company listed that no longer uses Elxir, p
 * [Qzzr](https://www.qzzr.com/)
 * [RiskRecon](https://www.riskrecon.com/)
 * [Salesrabbit](https://www.salesrabbit.com/)
-* Savy
+* [Savi Solutions](https://getsavi.com/)
 * [Strala](https://www.strala.com/)
 * [Spiff](https://spiff.com/)
 * [Skip](https://skipio.com/)
