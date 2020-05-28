@@ -2,6 +2,7 @@ This is a list of Utah companies using Elixir.
 I started keeping this list for my own reasons, but later had a lot of people ask me for a copy and it seems like something useful for the whole community.
 If you notice a company missing or a company listed that no longer uses Elxir, please open a pull request.
 
+* [APiO](https://apio.tech/)
 * [Divvy](https://getdivvy.com/)
 * [Grio](https://thegrio.com/)
 * [HomeU](https://www.homeuyyc.ca/)
