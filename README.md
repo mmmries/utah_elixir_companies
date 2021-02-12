@@ -19,6 +19,7 @@ If you notice a company missing or a company listed that no longer uses Elxir, p
 * [Strala](https://www.strala.com/)
 * [Spiff](https://spiff.com/)
 * [Skip](https://skipio.com/)
+* [Skip, Inc.](https://getskip.com)
 * [TazWorks](https://tazworks.com/)
 * [Virtual Power Systems](http://virtualpowersystems.com/)
 * Vsn Solar - API clients in elixir
