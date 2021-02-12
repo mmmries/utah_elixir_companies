@@ -6,6 +6,7 @@ If you notice a company missing or a company listed that no longer uses Elxir, p
 * [Divvy](https://getdivvy.com/)
 * [Grio](https://thegrio.com/)
 * [HomeU](https://www.homeuyyc.ca/)
+* GenesisBlock
 * [Jolt](https://www.jolt.com/)
 * [Mavenlink](https://www.mavenlink.com/)
 * [MX](https://www.mx.com/)
@@ -19,6 +20,7 @@ If you notice a company missing or a company listed that no longer uses Elxir, p
 * [Spiff](https://spiff.com/)
 * [Skip](https://skipio.com/)
 * [TazWorks](https://tazworks.com/)
+* [Virtual Power Systems](http://virtualpowersystems.com/)
 * Vsn Solar - API clients in elixir
 
 > I also tried looking up URLs for the companies in this list, please let me know if you see any errors
