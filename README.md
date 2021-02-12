@@ -6,7 +6,7 @@ If you notice a company missing or a company listed that no longer uses Elxir, p
 * [Divvy](https://getdivvy.com/)
 * [Grio](https://thegrio.com/)
 * [HomeU](https://www.homeuyyc.ca/)
-* GenesisBlock
+* [GenesisBlock](https://genesisblock.com/)
 * [Jolt](https://www.jolt.com/)
 * [Mavenlink](https://www.mavenlink.com/)
 * [MX](https://www.mx.com/)
