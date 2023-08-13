@@ -3,9 +3,9 @@ I started keeping this list for my own reasons, but later had a lot of people as
 If you notice a company missing or a company listed that no longer uses Elxir, please open a pull request.
 
 * [APiO](https://apio.tech/)
+* [Cato Digital](http://cato.digital/)
 * [Divvy](https://getdivvy.com/)
 * [Grio](https://thegrio.com/)
-* [HomeU](https://www.homeuyyc.ca/)
 * [GenesisBlock](https://genesisblock.com/)
 * [Jolt](https://www.jolt.com/)
 * [Mavenlink](https://www.mavenlink.com/)
@@ -21,7 +21,6 @@ If you notice a company missing or a company listed that no longer uses Elxir, p
 * [Skip](https://skipio.com/)
 * [Skip, Inc.](https://getskip.com)
 * [TazWorks](https://tazworks.com/)
-* [Virtual Power Systems](http://virtualpowersystems.com/)
 * Vsn Solar - API clients in elixir
 
 > I also tried looking up URLs for the companies in this list, please let me know if you see any errors
